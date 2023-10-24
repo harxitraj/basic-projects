@@ -1,3 +1,3 @@
 a=input("enter any number: ")
-b=input("enter anu other number: ")
+b=input("enter another number: ")
 print(a+b)
